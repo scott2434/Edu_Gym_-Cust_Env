@@ -1,0 +1,24 @@
+https://gymnasium.farama.org/introduction/create_custom_env/v
+DESIGN QUESTIONS:
+***What should the agent learn
+	-to stand up from a lying position
+	
+*** What information does the agent need?
+	-position(joints, top of head, ground)
+	-velocity(joints,body)
+	-Current state of the system?
+
+*** What actions can the agent take?
+	-Continuous control (steering angle, throttle)?
+
+*** How do we measure success?
+	-Reaching a specific goal?(top of head reaches 		height,feet are in right position
+	####-Maximizing a score?(incertain if necessary)
+	-Avoiding failures?(uncertain if necessary)
+
+*** When should episodes end?
+	-Task completion (success/failure)?
+
+
+
+

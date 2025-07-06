@@ -12,7 +12,7 @@ DESIGN QUESTIONS:
 	-Continuous control (steering angle, throttle)?
 
 *** How do we measure success?
-	-Reaching a specific goal?(top of head reaches 		height,feet are in right position
+	-Reaching a specific goal?(top of head reaches height,feet are in right position
 	####-Maximizing a score?(incertain if necessary)
 	-Avoiding failures?(uncertain if necessary)
 
